@@ -1,1 +1,2 @@
-blah blah
+Ryano Rosi
+git config --global core.editor "code --wait".
